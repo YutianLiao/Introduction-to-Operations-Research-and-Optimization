@@ -10,7 +10,7 @@ s.t \quad & Ax = b\\
 \end{aligned}
 $$
 
-其中 $$c\in \mathbb{R}^{n \times 1}$$, $$x\in \mathbb{R}^{n \times 1}$$$$$x\in \mathbb{R}^{n \times 1}$$, $A\in \mathbb{R}^{m \times n}$, $$b\in \mathbb{R}^{m \times 1}$$$, $$A\in \mathbb{R}^{m \times n}$$, $$b\in R^{m+1}$$. 下面展示了一个线性规划的实例:
+其中 $$c\in \mathbb{R}^{n\times 1}$$, $$x\in \mathbb{R}^{n\times 1}$$, $$A\in \mathbb{R}^{m\times n}$$, $$b\in \mathbb{R}^{m+1}$$. 下面展示了一个线性规划的实例:
 
 <mark style="color:green;">**例 (生产安排)**</mark> 某厂在计划期间内要生产A, B两种产品, 需要用到机器, 人工和原材料. 已知生产单位产品的利润与所需各种资源的消耗量如下图所示, 请问应如何安排生产能是使该厂获利最大? _(最优解为 (x1, x2) = (0.5, 8), 对应的总利润为17.5)_
 
