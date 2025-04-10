@@ -2,6 +2,11 @@
 
 * [前言](README.md)
   * [注意事项](qian-yan/zhu-yi-shi-xiang.md)
+* [运筹学简介](yun-chou-xue-jian-jie/README.md)
+  * [运筹学是什么](yun-chou-xue-jian-jie/yun-chou-xue-shi-shen-me.md)
+  * [典型问题分类](yun-chou-xue-jian-jie/dian-xing-wen-ti-fen-lei.md)
 * [线性规划问题](xian-xing-gui-hua-wen-ti/README.md)
   * [线性规划基础概念](xian-xing-gui-hua-wen-ti/xian-xing-gui-hua-ji-chu-gai-nian.md)
+  * [线性化方法](xian-xing-gui-hua-wen-ti/xian-xing-hua-fang-fa.md)
+  * [单纯形法](xian-xing-gui-hua-wen-ti/dan-chun-xing-fa.md)
   * [参考资料](xian-xing-gui-hua-wen-ti/can-kao-zi-liao.md)
