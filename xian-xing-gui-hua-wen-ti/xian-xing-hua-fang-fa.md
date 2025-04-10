@@ -36,6 +36,8 @@ $$
 
 对于两个连续变量相乘的情况是无法进行等价线性化的, 只能进行近似. 近似的常用方法是 [McCormick Envelope](https://optimization.cbe.cornell.edu/index.php?title=McCormick_envelopes)
 
+***
+
 ### 取整
 
 等式 $$\lceil \frac{x}{Q} \rceil$$ ($$x$$ 为非负连续变量, $$y$$ 是非负整数变量, $$Q$$ 为任意整数) 等同于
@@ -47,6 +49,8 @@ s.t \quad & y \geq \frac{x}{Q}\\
 \quad & y - 1 \leq \frac{x}{Q}
 \end{aligned}
 $$
+
+***
 
 ### 绝对值
 
@@ -61,6 +65,8 @@ $$
 & y\in\{0,1\}, z,x_{p},x_{n} \geq 0
 \end{aligned}
 $$
+
+***
 
 ### $$min/max$$ 函数
 
@@ -83,3 +89,6 @@ s.t \quad & y \leq x_{1}\\
 \quad & y \leq x_{2}
 \end{aligned}
 $$
+
+***
+
