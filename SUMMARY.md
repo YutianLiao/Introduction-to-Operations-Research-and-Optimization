@@ -8,5 +8,8 @@
 * [线性规划问题](xian-xing-gui-hua-wen-ti/README.md)
   * [线性规划基础概念](xian-xing-gui-hua-wen-ti/xian-xing-gui-hua-ji-chu-gai-nian.md)
   * [线性化方法](xian-xing-gui-hua-wen-ti/xian-xing-hua-fang-fa.md)
+  * [对偶理论](xian-xing-gui-hua-wen-ti/dui-ou-li-lun.md)
   * [单纯形法](xian-xing-gui-hua-wen-ti/dan-chun-xing-fa.md)
+  * [椭圆法](xian-xing-gui-hua-wen-ti/tuo-yuan-fa.md)
+  * [内点法](xian-xing-gui-hua-wen-ti/nei-dian-fa.md)
   * [参考资料](xian-xing-gui-hua-wen-ti/can-kao-zi-liao.md)
