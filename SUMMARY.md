@@ -25,5 +25,8 @@
 * [动态规划问题](dong-tai-gui-hua-wen-ti/README.md)
   * [动态规划基础概念](dong-tai-gui-hua-wen-ti/dong-tai-gui-hua-ji-chu-gai-nian.md)
   * [动态规划的应用](dong-tai-gui-hua-wen-ti/dong-tai-gui-hua-de-ying-yong.md)
+* [图论与网络优化](tu-lun-yu-wang-luo-you-hua/README.md)
+  * [图的遍历](tu-lun-yu-wang-luo-you-hua/tu-de-bian-li.md)
+  * [最短路径问题](tu-lun-yu-wang-luo-you-hua/zui-duan-lu-jing-wen-ti.md)
 * [多目标优化](duo-mu-biao-you-hua.md)
 * [机器学习总结](ji-qi-xue-xi-zong-jie.md)
